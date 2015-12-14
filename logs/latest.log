@@ -1,0 +1,11 @@
+[15:38:04] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[15:38:04] [Server thread/INFO]: Loading properties
+[15:38:04] [Server thread/INFO]: Default game type: CREATIVE
+[15:38:04] [Server thread/INFO]: Generating keypair
+[15:38:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:38:04] [Server thread/INFO]: Using epoll channel type
+[15:38:05] [Server thread/INFO]: Preparing level "world"
+[15:38:05] [Server thread/INFO]: Preparing start region for level 0
+[15:38:06] [Server thread/INFO]: Preparing spawn area: 23%
+[15:38:07] [Server thread/INFO]: Preparing spawn area: 94%
+[15:38:07] [Server thread/INFO]: Done (2.214s)! For help, type "help" or "?"

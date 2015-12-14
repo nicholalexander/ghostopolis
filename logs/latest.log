@@ -1,11 +1,25 @@
-[15:38:04] [Server thread/INFO]: Starting minecraft server version 1.8.9
-[15:38:04] [Server thread/INFO]: Loading properties
-[15:38:04] [Server thread/INFO]: Default game type: CREATIVE
-[15:38:04] [Server thread/INFO]: Generating keypair
-[15:38:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:38:04] [Server thread/INFO]: Using epoll channel type
-[15:38:05] [Server thread/INFO]: Preparing level "world"
-[15:38:05] [Server thread/INFO]: Preparing start region for level 0
-[15:38:06] [Server thread/INFO]: Preparing spawn area: 23%
-[15:38:07] [Server thread/INFO]: Preparing spawn area: 94%
-[15:38:07] [Server thread/INFO]: Done (2.214s)! For help, type "help" or "?"
+[15:58:31] [Server thread/INFO]: Starting minecraft server version 1.8.9
+[15:58:31] [Server thread/INFO]: Loading properties
+[15:58:31] [Server thread/INFO]: Default game type: CREATIVE
+[15:58:31] [Server thread/INFO]: Generating keypair
+[15:58:32] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:58:32] [Server thread/INFO]: Using epoll channel type
+[15:58:32] [Server thread/INFO]: Preparing level "world"
+[15:58:32] [Server thread/INFO]: Preparing start region for level 0
+[15:58:33] [Server thread/INFO]: Preparing spawn area: 19%
+[15:58:34] [Server thread/INFO]: Preparing spawn area: 79%
+[15:58:34] [Server thread/INFO]: Done (2.312s)! For help, type "help" or "?"
+[15:58:42] [User Authenticator #1/INFO]: UUID of player nicholalexander is 3a0b717b-5e29-4f3e-8746-c1b42345a04b
+[15:58:43] [Server thread/INFO]: nicholalexander[/68.197.91.30:45728] logged in with entity id 154 at (670.5, 66.0, -903.5)
+[15:58:43] [Server thread/INFO]: nicholalexander joined the game
+[15:58:50] [Server thread/INFO]: nicholalexander has just earned the achievement [Taking Inventory]
+[16:00:29] [Server thread/INFO]: nicholalexander lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+[16:00:29] [Server thread/INFO]: nicholalexander left the game
+[16:00:32] [Server thread/INFO]: --- Showing help page 1 of 9 (/help <page>) ---
+[16:00:32] [Server thread/INFO]: /achievement <give|take> <stat_name|*> [player]
+[16:00:32] [Server thread/INFO]: /ban <name> [reason ...]
+[16:00:32] [Server thread/INFO]: /ban-ip <address|name> [reason ...]
+[16:00:32] [Server thread/INFO]: /banlist [ips|players]
+[16:00:32] [Server thread/INFO]: /blockdata <x> <y> <z> <dataTag>
+[16:00:32] [Server thread/INFO]: /clear [player] [item] [data] [maxCount] [dataTag]
+[16:00:32] [Server thread/INFO]: /clone <x1> <y1> <z1> <x2> <y2> <z2> <x> <y> <z> [maskMode] [cloneMode]
